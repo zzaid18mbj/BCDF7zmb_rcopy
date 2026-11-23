@@ -1,11 +1,11 @@
 <!---
 
-Este archivo sirve para convertir binario a segmentos 
+This program is used to convert binary signals into segments.
 -->
 
 ## How it works
 
-Transforma señales binarioas a segundos
+
 
 ## How to test
 
