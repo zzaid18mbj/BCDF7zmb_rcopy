@@ -5,12 +5,12 @@ This program is used to convert binary signals into segments.
 
 ## How it works
 
-
+This project is a collaboration with UTEQ University.
 
 ## How to test
 
-Explain how to use your project
+This project converts binary signals into numbers on an LED display.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+An LED screen and a computer were used to perform the simulations.
